@@ -47,5 +47,6 @@ Create a URL using flask to visualize the data from scraping.py and index.html.
 ## Summary
 
 Using the tools provided, a script can be ran to automate the scraping of the requested data and visualize this data. 
+With Bootstrap, the design can be further customized by modifying font, button color, image layout, and much more. 
 
 ![image](https://user-images.githubusercontent.com/91445591/158075568-ec924c45-78e0-49a8-8cf1-89c0dbfc40d7.png)
