@@ -20,7 +20,7 @@ def scrape_all():
       "news_paragraph": news_paragraph,
       "featured_image": featured_image(browser),
       "facts": mars_facts(),
-      "hemisphere_img": hemisphere_image_urls,
+      "hemispheres": hemisphere_image_urls,
       "last_modified": dt.datetime.now()
     }
 
